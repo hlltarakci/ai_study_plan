@@ -56,3 +56,9 @@
   - [ ] AWS: skillbuilder.aws
   - [ ] DeepLearningAI: deeplearning.ai
   - [ ] Hugging Face: huggingface.co/learn
+
+# References
+- [1](https://www.linkedin.com/posts/jeanklee_the-most-expensive-ai-education-in-the-world-activity-7470512679816830976-Q02v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
+- [2](https://www.linkedin.com/posts/gabriel-millien_the-best-ai-courses-are-free-not-the-cheap-activity-7470535307029815296-l6VH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
+- [3](https://www.linkedin.com/posts/shafaqat1485ali_ai-freecourses-artificialintelligence-activity-7470745124403302400-jXDq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
+- [4](https://www.linkedin.com/posts/ashley--nicholson_harvard-mit-and-google-are-giving-away-activity-7469864587534872576-4HsR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
