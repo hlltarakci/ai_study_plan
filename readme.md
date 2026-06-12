@@ -62,3 +62,6 @@
 - [2](https://www.linkedin.com/posts/gabriel-millien_the-best-ai-courses-are-free-not-the-cheap-activity-7470535307029815296-l6VH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
 - [3](https://www.linkedin.com/posts/shafaqat1485ali_ai-freecourses-artificialintelligence-activity-7470745124403302400-jXDq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
 - [4](https://www.linkedin.com/posts/ashley--nicholson_harvard-mit-and-google-are-giving-away-activity-7469864587534872576-4HsR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
+
+
+📍 *part of [my_small_world_of_curiosity](https://github.com/hlltarakci/my_small_world_of_curiosity)*
