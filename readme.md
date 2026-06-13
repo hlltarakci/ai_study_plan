@@ -1,50 +1,50 @@
 # AI Study Plan
 
 - [ ] Harvard Free Classes
-  - [ ] 1/ CS50's Introduction to CS https://lnkd.in/gb4m4PxA
-  - [ ] 2/ How Generative AI Works https://lnkd.in/gNrfc-zm
-  - [ ] 3/ Prompt Engineering https://lnkd.in/gGpupHzB
-  - [ ] 4/ Beyond Chatbots https://lnkd.in/gMG3jBCk
-  - [ ] 5/ The Basics of Generative AI https://lnkd.in/gu2DnuDA
-  - [ ] 6/ GPT-4 - How does it work, and how do I build apps with it? https://lnkd.in/gkM6he65
-  - [ ] 7/ Large Language Models and The End of Programming https://lnkd.in/gwAzE_zH
+  - [ ] 1/ CS50's Introduction to CS https://cs50.harvard.edu/x/weeks/ai/
+  - [ ] 2/ How Generative AI Works https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
+  - [ ] 3/ Prompt Engineering https://generative-ai-course.hks.harvard.edu/2-using-genai/class-4 
+  - [ ] 4/ Beyond Chatbots https://generative-ai-course.hks.harvard.edu/2-using-genai/class-5
+  - [ ] 5/ The Basics of Generative AI https://sites.google.com/g.harvard.edu/hksslate-genai/the-basics-of-generative-ai
+  - [ ] 6/ GPT-4 - How does it work, and how do I build apps with it? https://www.youtube.com/watch?v=vw-KWfKwvTQ
+  - [ ] 7/ Large Language Models and The End of Programming https://www.youtube.com/watch?v=JhCl-GeT4jw 
 - [ ] Fundamental AI Courses
   - [ ] 1/ AI for Everyone (DeepLearning.AI) - 7h
       * Cut through AI hype and understand what it actually does.
       * Perfect when you need to sound more confident when speaking about AI.
-      * See: https://lnkd.in/eDhC8kcd.
+      * See: https://www.deeplearning.ai/courses/ai-for-everyone
   - [ ] 2/ Introduction to Generative AI (Google) - 1h
       * Google's no-nonsense take on generative AI basics.
       * Real examples you can steal immediately.
-      * See: https://lnkd.in/ddM4DY6S
+      * See: https://www.coursera.org/learn/introduction-to-generative-ai
   - [ ] 3/ Prompt Engineering for ChatGPT (Vanderbilt) - 18h
       * Stop fumbling with prompts that don't work.
       * Learn the mechanics of getting AI to do what you want.
-      * See: https://lnkd.in/d-rCb-AM - 10h
-  - [ ] 4/ Google AI Essentials - 5h
+      * See: https://www.coursera.org/learn/prompt-engineering
+  - [ ] 4/ Google AI Essentials - 10h
       * Google's blueprint for workplace AI literacy.
       * Practical applications across every industry.
-      * See: https://lnkd.in/eVuje4Rf
+      * See: https://grow.google/intl/uk/
   - [ ] 5/ Generative AI for Everyone (DeepLearning.AI) - 6h
       * Business applications that make sense.
       * Implementation focus, not just theory.
-      * See: https://lnkd.in/g3KtK8vw
-  - [ ] 6/ AI Foundations (IBM):
+      * See: https://www.coursera.org/learn/generative-ai-for-everyone 
+  - [ ] 6/ AI Foundations (IBM)- 5h
       * Enterprise perspective on AI fundamentals.
       * IBM's approach to AI strategy that works.
-      * See: https://lnkd.in/gXRQSGJU
+      * See: https://skillsbuild.org/adult-learners/explore-learning/artificial-intelligence
   - [ ] 7/ CS50's Introduction to AI with Python (Harvard) - 7w
       * Harvard's rigorous programming approach to AI.
       * Real code, real algorithms, real results.
-      * See: https://lnkd.in/dfZtsxDr
+      * See: https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python
   - [ ] 8/ Artificial Intelligence (MIT OpenCourseWare) - 10w
       * MIT's complete AI curriculum without the tuition.
       * Deep technical foundation that actually matters.
-      * See: https://lnkd.in/eskDb_ap
+      * See: https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/
   - [ ] 9/ Career Essentials in Generative AI (Microsoft + LinkedIn) - 4h
       * Career-focused AI understanding.
       * Microsoft's take on workplace transformation.
-      * See: https://lnkd.in/gg452Mvk
+      * See: https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin
 - [ ] More resources:
   - [ ] Anthropic: anthropic.skilljar.com
   - [ ] Google: grow.google/ai
