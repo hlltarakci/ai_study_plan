@@ -3,7 +3,7 @@
 - [ ] Short Deep Learning Course ([3Blue1Brown](https://www.youtube.com/@3blue1brown))
   - [x] Large Language Models explained briefly - https://www.youtube.com/watch?v=LPZh9BOjkQs 
   - [x] But what is a neural network? | Deep learning chapter 1 - https://www.youtube.com/watch?v=aircAruvnKk
-  - [ ] Gradient descent, how neural networks learn | Deep Learning Chapter 2 - https://www.youtube.com/watch?v=IHZwWFHWa-w
+  - [x] Gradient descent, how neural networks learn | Deep Learning Chapter 2 - https://www.youtube.com/watch?v=IHZwWFHWa-w
   - [ ] Backpropagation, intuitively | Deep Learning Chapter 3 - https://www.youtube.com/watch?v=Ilg3gGewQ5U
   - [ ] Backpropagation calculus | Deep Learning Chapter 4 - https://www.youtube.com/watch?v=tIeHLnjs5U8
   - [ ] Transformers, the tech behind LLMs | Deep Learning Chapter 5 - https://www.youtube.com/watch?v=wjZofJX0v4M
