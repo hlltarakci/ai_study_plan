@@ -7,7 +7,7 @@
   - [x] Backpropagation, intuitively | Deep Learning Chapter 3 - https://www.youtube.com/watch?v=Ilg3gGewQ5U
   - [x] Backpropagation calculus | Deep Learning Chapter 4 - https://www.youtube.com/watch?v=tIeHLnjs5U8
   - [x] Transformers, the tech behind LLMs | Deep Learning Chapter 5 - https://www.youtube.com/watch?v=wjZofJX0v4M
-  - [ ] Attention in transformers, step-by-step | Deep Learning Chapter 6 - https://www.youtube.com/watch?v=eMlx5fFNoYc
+  - [x] Attention in transformers, step-by-step | Deep Learning Chapter 6 - https://www.youtube.com/watch?v=eMlx5fFNoYc
   - [ ] How might LLMs store facts | Deep Learning Chapter 7 - https://www.youtube.com/watch?v=9-Jl0dxWQs8 
 - [ ] Harvard Free Classes
   - [ ] 1/ CS50's Introduction to CS https://cs50.harvard.edu/x/weeks/ai/
