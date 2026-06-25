@@ -1,6 +1,6 @@
 # AI Study Plan
 
-- [ ] Short Deep Learning Course ([3Blue1Brown](https://www.youtube.com/@3blue1brown))
+- [ ] Short Deep Learning Course ([3Blue1Brown](https://www.youtube.com/@3blue1brown)) - https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
   - [x] Large Language Models explained briefly - https://www.youtube.com/watch?v=LPZh9BOjkQs 
   - [x] But what is a neural network? | Deep learning chapter 1 - https://www.youtube.com/watch?v=aircAruvnKk
   - [x] Gradient descent, how neural networks learn | Deep Learning Chapter 2 - https://www.youtube.com/watch?v=IHZwWFHWa-w
@@ -8,7 +8,9 @@
   - [x] Backpropagation calculus | Deep Learning Chapter 4 - https://www.youtube.com/watch?v=tIeHLnjs5U8
   - [x] Transformers, the tech behind LLMs | Deep Learning Chapter 5 - https://www.youtube.com/watch?v=wjZofJX0v4M
   - [x] Attention in transformers, step-by-step | Deep Learning Chapter 6 - https://www.youtube.com/watch?v=eMlx5fFNoYc
-  - [ ] How might LLMs store facts | Deep Learning Chapter 7 - https://www.youtube.com/watch?v=9-Jl0dxWQs8 
+  - [x] How might LLMs store facts | Deep Learning Chapter 7 - https://www.youtube.com/watch?v=9-Jl0dxWQs8
+  - [ ] But how do AI images and videos actually work? | Guest video by Welch Labs - https://www.youtube.com/watch?v=iv-5mZ_9CPY&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=9
+
 - [ ] Harvard Free Classes
   - [ ] 1/ CS50's Introduction to CS https://cs50.harvard.edu/x/weeks/ai/
   - [ ] 2/ How Generative AI Works https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
