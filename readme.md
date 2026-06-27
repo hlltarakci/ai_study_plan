@@ -9,14 +9,6 @@
   - [x] Transformers, the tech behind LLMs | Deep Learning Chapter 5 - https://www.youtube.com/watch?v=wjZofJX0v4M
   - [x] Attention in transformers, step-by-step | Deep Learning Chapter 6 - https://www.youtube.com/watch?v=eMlx5fFNoYc
   - [x] How might LLMs store facts | Deep Learning Chapter 7 - https://www.youtube.com/watch?v=9-Jl0dxWQs8
-- [ ] Harvard Free Classes
-  - [ ] 1/ CS50's Introduction to CS https://cs50.harvard.edu/x/weeks/ai/
-  - [ ] 2/ How Generative AI Works https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
-  - [ ] 3/ Prompt Engineering https://generative-ai-course.hks.harvard.edu/2-using-genai/class-4 
-  - [ ] 4/ Beyond Chatbots https://generative-ai-course.hks.harvard.edu/2-using-genai/class-5
-  - [ ] 5/ The Basics of Generative AI https://sites.google.com/g.harvard.edu/hksslate-genai/the-basics-of-generative-ai
-  - [ ] 6/ GPT-4 - How does it work, and how do I build apps with it? https://www.youtube.com/watch?v=vw-KWfKwvTQ
-  - [ ] 7/ Large Language Models and The End of Programming https://www.youtube.com/watch?v=JhCl-GeT4jw 
 - [ ] Fundamental AI Courses
   - [ ] 1/ AI for Everyone (DeepLearning.AI) - 7h
       * Cut through AI hype and understand what it actually does.
@@ -54,6 +46,14 @@
       * Career-focused AI understanding.
       * Microsoft's take on workplace transformation.
       * See: https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin
+- [ ] Harvard Free Classes
+  - [ ] 1/ CS50's Introduction to CS https://cs50.harvard.edu/x/weeks/ai/
+  - [ ] 2/ How Generative AI Works https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
+  - [ ] 3/ Prompt Engineering https://generative-ai-course.hks.harvard.edu/2-using-genai/class-4 
+  - [ ] 4/ Beyond Chatbots https://generative-ai-course.hks.harvard.edu/2-using-genai/class-5
+  - [ ] 5/ The Basics of Generative AI https://sites.google.com/g.harvard.edu/hksslate-genai/the-basics-of-generative-ai
+  - [ ] 6/ GPT-4 - How does it work, and how do I build apps with it? https://www.youtube.com/watch?v=vw-KWfKwvTQ
+  - [ ] 7/ Large Language Models and The End of Programming https://www.youtube.com/watch?v=JhCl-GeT4jw 
 - [ ] More resources:
   - [ ] Anthropic: anthropic.skilljar.com
   - [ ] Google: grow.google/ai
