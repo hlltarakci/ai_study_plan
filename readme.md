@@ -55,16 +55,16 @@
   - [ ] 6/ GPT-4 - How does it work, and how do I build apps with it? https://www.youtube.com/watch?v=vw-KWfKwvTQ
   - [ ] 7/ Large Language Models and The End of Programming https://www.youtube.com/watch?v=JhCl-GeT4jw 
 - [ ] More resources:
-  - [ ] Anthropic: anthropic.skilljar.com
-  - [ ] Google: grow.google/ai
-  - [ ] Meta: ai.meta.com/resources
-  - [ ] NVIDIA: https://lnkd.in/g_RgCxEq
-  - [ ] Microsoft: https://lnkd.in/gAWvm9Z3
-  - [ ] OpenAI: academy.openai.com
-  - [ ] IBM: skillsbuild.org
-  - [ ] AWS: skillbuilder.aws
-  - [ ] DeepLearningAI: deeplearning.ai
-  - [ ] Hugging Face: huggingface.co/learn
+  - [ ] Anthropic: https://anthropic.skilljar.com
+  - [ ] Google: https://grow.google/ai
+  - [ ] Meta: https://ai.meta.com/resources/
+  - [ ] NVIDIA: https://developer.nvidia.com/cuda
+  - [ ] Microsoft: https://learn.microsoft.com/en-us/training/
+  - [ ] OpenAI: https://academy.openai.com
+  - [ ] IBM: https://skillsbuild.org
+  - [ ] AWS: https://skillbuilder.aws
+  - [ ] DeepLearningAI: https://deeplearning.ai
+  - [ ] Hugging Face: https://huggingface.co/learn
 
 # References
 - [1](https://www.linkedin.com/posts/jeanklee_the-most-expensive-ai-education-in-the-world-activity-7470512679816830976-Q02v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
