@@ -54,6 +54,8 @@
   - [ ] 5/ The Basics of Generative AI https://sites.google.com/g.harvard.edu/hksslate-genai/the-basics-of-generative-ai
   - [ ] 6/ GPT-4 - How does it work, and how do I build apps with it? https://www.youtube.com/watch?v=vw-KWfKwvTQ
   - [ ] 7/ Large Language Models and The End of Programming https://www.youtube.com/watch?v=JhCl-GeT4jw 
+- [ ] [Stanford/ CS153 - Frontier Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA)
+  - [ ] [Sam Altman / Scale, AGI, and the Future of Everything](https://www.youtube.com/watch?v=F_7M4Hc-usM&list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&index=2&t=127s)
 - [ ] More resources:
   - [ ] Anthropic: https://anthropic.skilljar.com
   - [ ] Google: https://grow.google/ai
