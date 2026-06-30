@@ -9,6 +9,7 @@
   - [x] Transformers, the tech behind LLMs | Deep Learning Chapter 5 - https://www.youtube.com/watch?v=wjZofJX0v4M
   - [x] Attention in transformers, step-by-step | Deep Learning Chapter 6 - https://www.youtube.com/watch?v=eMlx5fFNoYc
   - [x] How might LLMs store facts | Deep Learning Chapter 7 - https://www.youtube.com/watch?v=9-Jl0dxWQs8
+  - [x] But what is a convolution? (CNN) - https://www.youtube.com/watch?v=KuXjwB4LzSA
 - [ ] Fundamental AI Courses
   - [ ] 1/ AI for Everyone (DeepLearning.AI) - 7h
       * Cut through AI hype and understand what it actually does.
