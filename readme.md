@@ -11,7 +11,7 @@
   - [x] How might LLMs store facts | Deep Learning Chapter 7 - https://www.youtube.com/watch?v=9-Jl0dxWQs8
   - [x] But what is a convolution? (CNN) - https://www.youtube.com/watch?v=KuXjwB4LzSA
 - [ ] Fundamental AI Courses
-  - [ ] 1/ AI for Everyone (DeepLearning.AI) - 7h
+  - [x] 1/ AI for Everyone (DeepLearning.AI) - 7h
       * Cut through AI hype and understand what it actually does.
       * Perfect when you need to sound more confident when speaking about AI.
       * See: https://www.deeplearning.ai/courses/ai-for-everyone
