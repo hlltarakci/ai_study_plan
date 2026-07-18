@@ -48,13 +48,22 @@
       * Microsoft's take on workplace transformation.
       * See: https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin
 - [ ] Harvard Free Classes
-  - [ ] 1/ CS50's Introduction to CS https://cs50.harvard.edu/x/weeks/ai/
-  - [ ] 2/ How Generative AI Works https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
-  - [ ] 3/ Prompt Engineering https://generative-ai-course.hks.harvard.edu/2-using-genai/class-4 
-  - [ ] 4/ Beyond Chatbots https://generative-ai-course.hks.harvard.edu/2-using-genai/class-5
-  - [ ] 5/ The Basics of Generative AI https://sites.google.com/g.harvard.edu/hksslate-genai/the-basics-of-generative-ai
-  - [ ] 6/ GPT-4 - How does it work, and how do I build apps with it? https://www.youtube.com/watch?v=vw-KWfKwvTQ
-  - [ ] 7/ Large Language Models and The End of Programming https://www.youtube.com/watch?v=JhCl-GeT4jw 
+  - [ ] CS50's Introduction to CS https://cs50.harvard.edu/x/weeks/ai/
+  - [ ] The Science and Implications of Generative AI
+      - [x] How Generative AI Works https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
+      - [ ] Deep Neural Networks https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-2
+      - [ ] The alignment problem https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-3
+      - [ ] Prompt Engineering https://generative-ai-course.hks.harvard.edu/2-using-genai/class-4 
+      - [ ] Beyond Chatbots https://generative-ai-course.hks.harvard.edu/2-using-genai/class-5
+      - [ ] When and how to use generative ai https://generative-ai-course.hks.harvard.edu/2-using-genai/class-6
+      - [ ] Using AI tools in practice: a case study https://generative-ai-course.hks.harvard.edu/2-using-genai/class-7
+      - [ ] Risks of generative ai https://generative-ai-course.hks.harvard.edu/society/class-8
+      - [ ] Intellectual property https://generative-ai-course.hks.harvard.edu/society/class-9
+      - [ ] The future of work https://generative-ai-course.hks.harvard.edu/society/class-10
+      - [ ] Mis/disinformation https://generative-ai-course.hks.harvard.edu/society/class-11
+  - [ ] The Basics of Generative AI https://sites.google.com/g.harvard.edu/hksslate-genai/the-basics-of-generative-ai
+  - [ ] GPT-4 - How does it work, and how do I build apps with it? https://www.youtube.com/watch?v=vw-KWfKwvTQ
+  - [ ] Large Language Models and The End of Programming https://www.youtube.com/watch?v=JhCl-GeT4jw 
 - [ ] [Stanford/ CS153 - Frontier Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA)
   - [ ] [Sam Altman / Scale, AGI, and the Future of Everything](https://www.youtube.com/watch?v=F_7M4Hc-usM&list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&index=2&t=127s)
 - [ ] More resources:
