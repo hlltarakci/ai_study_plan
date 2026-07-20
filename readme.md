@@ -66,6 +66,7 @@
   - [ ] Large Language Models and The End of Programming https://www.youtube.com/watch?v=JhCl-GeT4jw 
 - [ ] [Stanford/ CS153 - Frontier Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA)
   - [ ] [Sam Altman / Scale, AGI, and the Future of Everything](https://www.youtube.com/watch?v=F_7M4Hc-usM&list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA&index=2&t=127s)
+- [ ] [Book][Hands-On Large Language Models: Language Understanding and Generation - Jay Alammar (Author), Maarten Grootendorst](https://www.amazon.co.uk/Hands-Large-Language-Models-Understanding/dp/1098150961)
 - [ ] More resources:
   - [ ] Anthropic: https://anthropic.skilljar.com
   - [ ] Google: https://grow.google/ai
