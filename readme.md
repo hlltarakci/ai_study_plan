@@ -85,5 +85,7 @@
 - [3](https://www.linkedin.com/posts/shafaqat1485ali_ai-freecourses-artificialintelligence-activity-7470745124403302400-jXDq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
 - [4](https://www.linkedin.com/posts/ashley--nicholson_harvard-mit-and-google-are-giving-away-activity-7469864587534872576-4HsR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAJj0_IB_qfsAsByG9HC0I_qjgZeeMpe0mQ)
 
+# My Posts
+- https://hlltarakci.medium.com/inside-an-llms-reasoning-what-it-does-differently-than-a-human-mind-and-why-0bd56342f73b
 
 📍 *part of [my_small_world_of_curiosity](https://github.com/hlltarakci/my_small_world_of_curiosity)*
