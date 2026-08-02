@@ -51,7 +51,7 @@
   - [ ] CS50's Introduction to CS https://cs50.harvard.edu/x/weeks/ai/
   - [ ] The Science and Implications of Generative AI
       - [x] How Generative AI Works https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-1
-      - [ ] Deep Neural Networks https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-2
+      - [x] Deep Neural Networks https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-2
       - [ ] The alignment problem https://generative-ai-course.hks.harvard.edu/1-how-genai-works/class-3
       - [ ] Prompt Engineering https://generative-ai-course.hks.harvard.edu/2-using-genai/class-4 
       - [ ] Beyond Chatbots https://generative-ai-course.hks.harvard.edu/2-using-genai/class-5
